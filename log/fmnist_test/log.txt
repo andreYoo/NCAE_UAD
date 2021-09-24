@@ -1,0 +1,136 @@
+2021-09-24 10:17:08,168 - root - INFO - NO Dir for learning monitoring - It is generated in ../log/fmnist_test/210924_10:17:08
+2021-09-24 10:17:08,169 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-09-24 10:17:08,169 - root - INFO - Log file is ../log/fmnist_test/210924_10:17:08
+2021-09-24 10:17:08,169 - root - INFO - Data path is ../data
+2021-09-24 10:17:08,169 - root - INFO - Export path is ../log/fmnist_test
+2021-09-24 10:17:08,169 - root - INFO - Network: fmnist_LeNet
+2021-09-24 10:17:08,186 - root - INFO - Computation device: cuda
+2021-09-24 10:17:08,186 - root - INFO - Number of threads: 0
+2021-09-24 10:17:08,186 - root - INFO - Number of dataloader workers: 0
+2021-09-24 10:17:08,212 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-09-24 10:17:08,212 - root - INFO - Dataset: fmnist
+2021-09-24 10:17:08,213 - root - INFO - Normal class: 7
+2021-09-24 10:17:08,213 - root - INFO - Pollution ratio of unlabeled train data: 0.0000
+2021-09-24 10:17:08,213 - root - INFO - Training optimizer: adam
+2021-09-24 10:17:08,213 - root - INFO - Training learning rate: 0.001
+2021-09-24 10:17:08,213 - root - INFO - Training epochs: 150
+2021-09-24 10:17:08,213 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-09-24 10:17:08,213 - root - INFO - Training batch size: 128
+2021-09-24 10:17:08,213 - root - INFO - Training weight decay: 5e-07
+2021-09-24 10:17:08,213 - root - INFO - Training learning rate for GAN: 0.001000
+2021-09-24 10:17:08,213 - root - INFO - Std for GAN: 0.100000
+2021-09-24 10:17:08,213 - root - INFO - Balancing weight (lambda): 0.100000
+2021-09-24 10:17:09,562 - root - INFO - Initializing initial statistics...
+2021-09-24 10:17:10,005 - root - INFO - Mu and Std initialized.
+2021-09-24 10:17:10,005 - root - INFO - Starting training...
+2021-09-24 10:20:56,707 - root - INFO - Training Time: 226.701s
+2021-09-24 10:20:56,707 - root - INFO - Finished training.
+2021-09-24 10:20:56,707 - root - INFO - Testing...
+2021-09-24 10:20:57,326 - root - INFO - [Experimental results]---------------------------------------------------------------------------
+2021-09-24 10:20:57,326 - root - INFO - Test Loss: 0.073016
+2021-09-24 10:20:57,327 - root - INFO - Test AUC: 98.48%
+2021-09-24 10:20:57,327 - root - INFO - Test Time: 0.615s
+2021-09-24 10:20:57,327 - root - INFO - Finished testing.
+2021-09-24 10:20:57,327 - root - INFO - ================================================================================================
+2021-09-24 10:24:48,212 - root - INFO - NO Dir for learning monitoring - It is generated in ../log/fmnist_test/210924_10:24:48
+2021-09-24 10:24:48,213 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-09-24 10:24:48,213 - root - INFO - Log file is ../log/fmnist_test/210924_10:24:48
+2021-09-24 10:24:48,213 - root - INFO - Data path is ../data
+2021-09-24 10:24:48,213 - root - INFO - Export path is ../log/fmnist_test
+2021-09-24 10:24:48,213 - root - INFO - Network: fmnist_LeNet
+2021-09-24 10:24:48,230 - root - INFO - Computation device: cuda
+2021-09-24 10:24:48,230 - root - INFO - Number of threads: 0
+2021-09-24 10:24:48,230 - root - INFO - Number of dataloader workers: 0
+2021-09-24 10:24:48,258 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-09-24 10:24:48,258 - root - INFO - Dataset: fmnist
+2021-09-24 10:24:48,258 - root - INFO - Normal class: 7
+2021-09-24 10:24:48,258 - root - INFO - Pollution ratio of unlabeled train data: 0.2000
+2021-09-24 10:24:48,258 - root - INFO - Training optimizer: adam
+2021-09-24 10:24:48,258 - root - INFO - Training learning rate: 0.001
+2021-09-24 10:24:48,258 - root - INFO - Training epochs: 150
+2021-09-24 10:24:48,258 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-09-24 10:24:48,258 - root - INFO - Training batch size: 128
+2021-09-24 10:24:48,258 - root - INFO - Training weight decay: 5e-07
+2021-09-24 10:24:48,258 - root - INFO - Training learning rate for GAN: 0.001000
+2021-09-24 10:24:48,258 - root - INFO - Std for GAN: 0.100000
+2021-09-24 10:24:48,258 - root - INFO - Balancing weight (lambda): 0.100000
+2021-09-24 10:24:49,628 - root - INFO - Initializing initial statistics...
+2021-09-24 10:24:50,169 - root - INFO - Mu and Std initialized.
+2021-09-24 10:24:50,170 - root - INFO - Starting training...
+2021-09-24 10:29:37,092 - root - INFO - Training Time: 286.922s
+2021-09-24 10:29:37,092 - root - INFO - Finished training.
+2021-09-24 10:29:37,093 - root - INFO - Testing...
+2021-09-24 10:29:37,687 - root - INFO - [Experimental results]---------------------------------------------------------------------------
+2021-09-24 10:29:37,687 - root - INFO - Test Loss: 0.027909
+2021-09-24 10:29:37,687 - root - INFO - Test AUC: 92.60%
+2021-09-24 10:29:37,687 - root - INFO - Test Time: 0.591s
+2021-09-24 10:29:37,687 - root - INFO - Finished testing.
+2021-09-24 10:29:37,687 - root - INFO - ================================================================================================
+2021-09-24 10:35:44,086 - root - INFO - NO Dir for learning monitoring - It is generated in ../log/fmnist_test/210924_10:35:44
+2021-09-24 10:35:44,087 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-09-24 10:35:44,087 - root - INFO - Log file is ../log/fmnist_test/210924_10:35:44
+2021-09-24 10:35:44,087 - root - INFO - Data path is ../data
+2021-09-24 10:35:44,087 - root - INFO - Export path is ../log/fmnist_test
+2021-09-24 10:35:44,087 - root - INFO - Network: fmnist_LeNet
+2021-09-24 10:35:44,105 - root - INFO - Computation device: cuda
+2021-09-24 10:35:44,105 - root - INFO - Number of threads: 0
+2021-09-24 10:35:44,105 - root - INFO - Number of dataloader workers: 0
+2021-09-24 10:35:44,133 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-09-24 10:35:44,133 - root - INFO - Dataset: fmnist
+2021-09-24 10:35:44,133 - root - INFO - Normal class: 7
+2021-09-24 10:35:44,133 - root - INFO - Pollution ratio of unlabeled train data: 0.2000
+2021-09-24 10:35:44,134 - root - INFO - Training optimizer: adam
+2021-09-24 10:35:44,134 - root - INFO - Training learning rate: 0.001
+2021-09-24 10:35:44,134 - root - INFO - Training epochs: 150
+2021-09-24 10:35:44,134 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-09-24 10:35:44,134 - root - INFO - Training batch size: 128
+2021-09-24 10:35:44,134 - root - INFO - Training weight decay: 5e-07
+2021-09-24 10:35:44,134 - root - INFO - Training learning rate for GAN: 0.001000
+2021-09-24 10:35:44,134 - root - INFO - Std for GAN: 0.100000
+2021-09-24 10:35:44,134 - root - INFO - Balancing weight (lambda): 0.100000
+2021-09-24 10:35:45,483 - root - INFO - Initializing initial statistics...
+2021-09-24 10:35:46,009 - root - INFO - Mu and Std initialized.
+2021-09-24 10:35:46,009 - root - INFO - Starting training...
+2021-09-24 10:40:30,881 - root - INFO - Training Time: 284.871s
+2021-09-24 10:40:30,882 - root - INFO - Finished training.
+2021-09-24 10:40:30,882 - root - INFO - Testing...
+2021-09-24 10:40:31,483 - root - INFO - [Experimental results]---------------------------------------------------------------------------
+2021-09-24 10:40:31,483 - root - INFO - Test Loss: 0.027909
+2021-09-24 10:40:31,483 - root - INFO - Test AUC: 92.60%
+2021-09-24 10:40:31,483 - root - INFO - Test Time: 0.598s
+2021-09-24 10:40:31,483 - root - INFO - Finished testing.
+2021-09-24 10:40:31,483 - root - INFO - ================================================================================================
+2021-09-24 11:07:42,626 - root - INFO - NO Dir for learning monitoring - It is generated in ../log/fmnist_test/210924_11:07:42
+2021-09-24 11:07:42,626 - root - INFO - [Experiment detils]-------------------------------------------------------------------------
+2021-09-24 11:07:42,626 - root - INFO - Log file is ../log/fmnist_test/210924_11:07:42
+2021-09-24 11:07:42,627 - root - INFO - Data path is ../data
+2021-09-24 11:07:42,627 - root - INFO - Export path is ../log/fmnist_test
+2021-09-24 11:07:42,627 - root - INFO - Network: fmnist_LeNet
+2021-09-24 11:07:42,643 - root - INFO - Computation device: cuda
+2021-09-24 11:07:42,644 - root - INFO - Number of threads: 0
+2021-09-24 11:07:42,644 - root - INFO - Number of dataloader workers: 0
+2021-09-24 11:07:42,671 - root - INFO - [Training Parameter setting]-----------------------------------------------------------------
+2021-09-24 11:07:42,672 - root - INFO - Dataset: fmnist
+2021-09-24 11:07:42,672 - root - INFO - Normal class: 7
+2021-09-24 11:07:42,672 - root - INFO - Pollution ratio of unlabeled train data: 0.2000
+2021-09-24 11:07:42,672 - root - INFO - Training optimizer: adam
+2021-09-24 11:07:42,672 - root - INFO - Training learning rate: 0.001
+2021-09-24 11:07:42,672 - root - INFO - Training epochs: 150
+2021-09-24 11:07:42,672 - root - INFO - Training learning rate scheduler milestones: (20, 50, 70, 90)
+2021-09-24 11:07:42,672 - root - INFO - Training batch size: 128
+2021-09-24 11:07:42,672 - root - INFO - Training weight decay: 5e-07
+2021-09-24 11:07:42,672 - root - INFO - Training learning rate for GAN: 0.001000
+2021-09-24 11:07:42,672 - root - INFO - Std for GAN: 0.100000
+2021-09-24 11:07:42,672 - root - INFO - Balancing weight (lambda): 0.100000
+2021-09-24 11:07:44,014 - root - INFO - Initializing initial statistics...
+2021-09-24 11:07:44,533 - root - INFO - Mu and Std initialized.
+2021-09-24 11:07:44,534 - root - INFO - Starting training...
+2021-09-24 11:12:32,620 - root - INFO - Training Time: 288.086s
+2021-09-24 11:12:32,620 - root - INFO - Finished training.
+2021-09-24 11:12:32,621 - root - INFO - Testing...
+2021-09-24 11:12:33,232 - root - INFO - [Experimental results]---------------------------------------------------------------------------
+2021-09-24 11:12:33,232 - root - INFO - Test Loss: 0.025190
+2021-09-24 11:12:33,232 - root - INFO - Test AUC: 90.42%
+2021-09-24 11:12:33,232 - root - INFO - Test Time: 0.608s
+2021-09-24 11:12:33,233 - root - INFO - Finished testing.
+2021-09-24 11:12:33,233 - root - INFO - ================================================================================================
